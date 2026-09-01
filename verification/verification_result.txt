@@ -1,1 +1,0 @@
-Lab3 logic OK: 2 items, route=details/3
